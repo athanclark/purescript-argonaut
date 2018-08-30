@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "purescript-argonaut-codecs": "^3.0.0",
-    "purescript-argonaut-core": "git@git.localcooking.com:private-tooling/purescript-argonaut-core.git#c2f43c83e1bd817933d31f6e8152ccab86062b27",
+    "purescript-argonaut-core": "git@git.localcooking.com:private-tooling/purescript-argonaut-core.git#ac91a6b69ecc05ee9c6c4377d34f5b5931086ead",
     "purescript-argonaut-traversals": "^3.0.0"
   },
   "devDependencies": {
@@ -20,6 +20,6 @@
     "purescript-strongcheck": "^3.1.0"
   },
   "resolutions": {
-    "purescript-argonaut-core": "c2f43c83e1bd817933d31f6e8152ccab86062b27"
+    "purescript-argonaut-core": "ac91a6b69ecc05ee9c6c4377d34f5b5931086ead"
   }
 }
